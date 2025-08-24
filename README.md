@@ -35,7 +35,9 @@ git clone https://github.com/your-username/indoor-navigation-simulator.git
 cd indoor-navigation-simulator
 
 
+-------
 
-###Thankyou for exploring Indoor Navigation!!
+
+##Thankyou for exploring Indoor Navigation!!
 
 
